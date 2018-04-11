@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuizApp
+comment0.text=\n\ Capital\ City\ Quiz\n\n\ @author\ Martin\ Braathen\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ counter()
+comment2.text=\n\ This\ will\ be\ executed\ when\ the\ button\ is\ clicked\n\ It\ increments\ the\ count\ by\ 1\n
+numComments=3
